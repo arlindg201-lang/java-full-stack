@@ -10,6 +10,7 @@ public class Demo01 {
 
         List<String> list = Arrays.asList("1", "2");
         System.out.println("我爱学习");
+        System.out.println("我爱学习");
 
         List<String> result = list.stream().filter(x -> Integer.parseInt(x) > 1).collect(Collectors.toList());
         System.out.println(result);
