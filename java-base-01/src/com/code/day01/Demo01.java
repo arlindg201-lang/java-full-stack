@@ -9,7 +9,7 @@ public class Demo01 {
     public static void main(String[] args) {
 
         List<String> list = Arrays.asList("1", "2");
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 10; i++) {
             System.out.println("我爱学习");
         }
 
