@@ -9,6 +9,7 @@ public class Demo01 {
     public static void main(String[] args) {
 
         List<String> list = Arrays.asList("1", "2");
+        System.out.println("我爱学习");
 
         List<String> result = list.stream().filter(x -> Integer.parseInt(x) > 1).collect(Collectors.toList());
         System.out.println(result);
