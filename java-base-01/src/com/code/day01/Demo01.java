@@ -15,6 +15,5 @@ public class Demo01 {
 
         List<String> result = list.stream().filter(x -> Integer.parseInt(x) > 1).collect(Collectors.toList());
         System.out.println(result);
-
     }
 }
