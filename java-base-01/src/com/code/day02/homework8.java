@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//8
 public class homework8 {
     public static void main(String[] args) {
         int week = 2;

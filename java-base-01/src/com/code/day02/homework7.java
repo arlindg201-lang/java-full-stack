@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//7
 public class homework7 {
     public static void main(String[] args) {
        float f =3.4f;

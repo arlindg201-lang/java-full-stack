@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//6
 public class homework6 {
     public static void main(String[] args) {
         double huashi = 80;

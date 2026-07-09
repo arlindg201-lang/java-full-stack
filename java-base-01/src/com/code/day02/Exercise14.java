@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//14
 public class Exercise14 {
     public static void main(String[] args) {
         int i = 1;

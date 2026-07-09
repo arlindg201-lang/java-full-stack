@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//9
 public class homework9 {
     public static void main(String[] args) {
          int a = 3;

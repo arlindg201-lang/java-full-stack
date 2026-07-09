@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//5
 public class homework5 {
     public static void main(String[] args) {
         int hours = 89;

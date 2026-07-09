@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//18
 public class Exercise18 {
     public static void main(String[] args) {
         int result = 3 * 16;

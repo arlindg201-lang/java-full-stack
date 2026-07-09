@@ -1,5 +1,5 @@
 package com.code.day02;
-
+//12
 public class homework12 {
     public static void main(String[] args) {
 
